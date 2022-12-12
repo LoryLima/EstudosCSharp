@@ -1,0 +1,15 @@
+C:\Users\lsousa\Documents\Aulas\Udemy\DadosProdutoMelhorado\DadosProdutoMelhorado\bin\Debug\net6.0\DadosProdutoMelhorado.exe
+C:\Users\lsousa\Documents\Aulas\Udemy\DadosProdutoMelhorado\DadosProdutoMelhorado\bin\Debug\net6.0\DadosProdutoMelhorado.deps.json
+C:\Users\lsousa\Documents\Aulas\Udemy\DadosProdutoMelhorado\DadosProdutoMelhorado\bin\Debug\net6.0\DadosProdutoMelhorado.runtimeconfig.json
+C:\Users\lsousa\Documents\Aulas\Udemy\DadosProdutoMelhorado\DadosProdutoMelhorado\bin\Debug\net6.0\DadosProdutoMelhorado.dll
+C:\Users\lsousa\Documents\Aulas\Udemy\DadosProdutoMelhorado\DadosProdutoMelhorado\bin\Debug\net6.0\DadosProdutoMelhorado.pdb
+C:\Users\lsousa\Documents\Aulas\Udemy\DadosProdutoMelhorado\DadosProdutoMelhorado\obj\Debug\net6.0\DadosProdutoMelhorado.csproj.AssemblyReference.cache
+C:\Users\lsousa\Documents\Aulas\Udemy\DadosProdutoMelhorado\DadosProdutoMelhorado\obj\Debug\net6.0\DadosProdutoMelhorado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsousa\Documents\Aulas\Udemy\DadosProdutoMelhorado\DadosProdutoMelhorado\obj\Debug\net6.0\DadosProdutoMelhorado.AssemblyInfoInputs.cache
+C:\Users\lsousa\Documents\Aulas\Udemy\DadosProdutoMelhorado\DadosProdutoMelhorado\obj\Debug\net6.0\DadosProdutoMelhorado.AssemblyInfo.cs
+C:\Users\lsousa\Documents\Aulas\Udemy\DadosProdutoMelhorado\DadosProdutoMelhorado\obj\Debug\net6.0\DadosProdutoMelhorado.csproj.CoreCompileInputs.cache
+C:\Users\lsousa\Documents\Aulas\Udemy\DadosProdutoMelhorado\DadosProdutoMelhorado\obj\Debug\net6.0\DadosProdutoMelhorado.dll
+C:\Users\lsousa\Documents\Aulas\Udemy\DadosProdutoMelhorado\DadosProdutoMelhorado\obj\Debug\net6.0\refint\DadosProdutoMelhorado.dll
+C:\Users\lsousa\Documents\Aulas\Udemy\DadosProdutoMelhorado\DadosProdutoMelhorado\obj\Debug\net6.0\DadosProdutoMelhorado.pdb
+C:\Users\lsousa\Documents\Aulas\Udemy\DadosProdutoMelhorado\DadosProdutoMelhorado\obj\Debug\net6.0\DadosProdutoMelhorado.genruntimeconfig.cache
+C:\Users\lsousa\Documents\Aulas\Udemy\DadosProdutoMelhorado\DadosProdutoMelhorado\obj\Debug\net6.0\ref\DadosProdutoMelhorado.dll

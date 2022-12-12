@@ -1,0 +1,15 @@
+C:\Users\lsousa\Documents\Aulas\Udemy\DadosFuncionario\DadosFuncionario\bin\Debug\net6.0\DadosFuncionario.exe
+C:\Users\lsousa\Documents\Aulas\Udemy\DadosFuncionario\DadosFuncionario\bin\Debug\net6.0\DadosFuncionario.deps.json
+C:\Users\lsousa\Documents\Aulas\Udemy\DadosFuncionario\DadosFuncionario\bin\Debug\net6.0\DadosFuncionario.runtimeconfig.json
+C:\Users\lsousa\Documents\Aulas\Udemy\DadosFuncionario\DadosFuncionario\bin\Debug\net6.0\DadosFuncionario.dll
+C:\Users\lsousa\Documents\Aulas\Udemy\DadosFuncionario\DadosFuncionario\bin\Debug\net6.0\DadosFuncionario.pdb
+C:\Users\lsousa\Documents\Aulas\Udemy\DadosFuncionario\DadosFuncionario\obj\Debug\net6.0\DadosFuncionario.csproj.AssemblyReference.cache
+C:\Users\lsousa\Documents\Aulas\Udemy\DadosFuncionario\DadosFuncionario\obj\Debug\net6.0\DadosFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsousa\Documents\Aulas\Udemy\DadosFuncionario\DadosFuncionario\obj\Debug\net6.0\DadosFuncionario.AssemblyInfoInputs.cache
+C:\Users\lsousa\Documents\Aulas\Udemy\DadosFuncionario\DadosFuncionario\obj\Debug\net6.0\DadosFuncionario.AssemblyInfo.cs
+C:\Users\lsousa\Documents\Aulas\Udemy\DadosFuncionario\DadosFuncionario\obj\Debug\net6.0\DadosFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\lsousa\Documents\Aulas\Udemy\DadosFuncionario\DadosFuncionario\obj\Debug\net6.0\DadosFuncionario.dll
+C:\Users\lsousa\Documents\Aulas\Udemy\DadosFuncionario\DadosFuncionario\obj\Debug\net6.0\refint\DadosFuncionario.dll
+C:\Users\lsousa\Documents\Aulas\Udemy\DadosFuncionario\DadosFuncionario\obj\Debug\net6.0\DadosFuncionario.pdb
+C:\Users\lsousa\Documents\Aulas\Udemy\DadosFuncionario\DadosFuncionario\obj\Debug\net6.0\DadosFuncionario.genruntimeconfig.cache
+C:\Users\lsousa\Documents\Aulas\Udemy\DadosFuncionario\DadosFuncionario\obj\Debug\net6.0\ref\DadosFuncionario.dll

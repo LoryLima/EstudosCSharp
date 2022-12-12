@@ -1,0 +1,15 @@
+C:\Users\lsousa\Documents\Aulas\Udemy\DesafioConversor\DesafioConversor\bin\Debug\net6.0\DesafioConversor.exe
+C:\Users\lsousa\Documents\Aulas\Udemy\DesafioConversor\DesafioConversor\bin\Debug\net6.0\DesafioConversor.deps.json
+C:\Users\lsousa\Documents\Aulas\Udemy\DesafioConversor\DesafioConversor\bin\Debug\net6.0\DesafioConversor.runtimeconfig.json
+C:\Users\lsousa\Documents\Aulas\Udemy\DesafioConversor\DesafioConversor\bin\Debug\net6.0\DesafioConversor.dll
+C:\Users\lsousa\Documents\Aulas\Udemy\DesafioConversor\DesafioConversor\bin\Debug\net6.0\DesafioConversor.pdb
+C:\Users\lsousa\Documents\Aulas\Udemy\DesafioConversor\DesafioConversor\obj\Debug\net6.0\DesafioConversor.csproj.AssemblyReference.cache
+C:\Users\lsousa\Documents\Aulas\Udemy\DesafioConversor\DesafioConversor\obj\Debug\net6.0\DesafioConversor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsousa\Documents\Aulas\Udemy\DesafioConversor\DesafioConversor\obj\Debug\net6.0\DesafioConversor.AssemblyInfoInputs.cache
+C:\Users\lsousa\Documents\Aulas\Udemy\DesafioConversor\DesafioConversor\obj\Debug\net6.0\DesafioConversor.AssemblyInfo.cs
+C:\Users\lsousa\Documents\Aulas\Udemy\DesafioConversor\DesafioConversor\obj\Debug\net6.0\DesafioConversor.csproj.CoreCompileInputs.cache
+C:\Users\lsousa\Documents\Aulas\Udemy\DesafioConversor\DesafioConversor\obj\Debug\net6.0\DesafioConversor.dll
+C:\Users\lsousa\Documents\Aulas\Udemy\DesafioConversor\DesafioConversor\obj\Debug\net6.0\refint\DesafioConversor.dll
+C:\Users\lsousa\Documents\Aulas\Udemy\DesafioConversor\DesafioConversor\obj\Debug\net6.0\DesafioConversor.pdb
+C:\Users\lsousa\Documents\Aulas\Udemy\DesafioConversor\DesafioConversor\obj\Debug\net6.0\DesafioConversor.genruntimeconfig.cache
+C:\Users\lsousa\Documents\Aulas\Udemy\DesafioConversor\DesafioConversor\obj\Debug\net6.0\ref\DesafioConversor.dll

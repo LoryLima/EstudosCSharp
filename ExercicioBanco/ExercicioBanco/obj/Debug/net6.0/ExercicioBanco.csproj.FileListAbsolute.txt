@@ -1,0 +1,15 @@
+C:\Users\lsousa\Documents\Aulas\Udemy\ExercicioBanco\ExercicioBanco\bin\Debug\net6.0\ExercicioBanco.exe
+C:\Users\lsousa\Documents\Aulas\Udemy\ExercicioBanco\ExercicioBanco\bin\Debug\net6.0\ExercicioBanco.deps.json
+C:\Users\lsousa\Documents\Aulas\Udemy\ExercicioBanco\ExercicioBanco\bin\Debug\net6.0\ExercicioBanco.runtimeconfig.json
+C:\Users\lsousa\Documents\Aulas\Udemy\ExercicioBanco\ExercicioBanco\bin\Debug\net6.0\ExercicioBanco.dll
+C:\Users\lsousa\Documents\Aulas\Udemy\ExercicioBanco\ExercicioBanco\bin\Debug\net6.0\ExercicioBanco.pdb
+C:\Users\lsousa\Documents\Aulas\Udemy\ExercicioBanco\ExercicioBanco\obj\Debug\net6.0\ExercicioBanco.csproj.AssemblyReference.cache
+C:\Users\lsousa\Documents\Aulas\Udemy\ExercicioBanco\ExercicioBanco\obj\Debug\net6.0\ExercicioBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsousa\Documents\Aulas\Udemy\ExercicioBanco\ExercicioBanco\obj\Debug\net6.0\ExercicioBanco.AssemblyInfoInputs.cache
+C:\Users\lsousa\Documents\Aulas\Udemy\ExercicioBanco\ExercicioBanco\obj\Debug\net6.0\ExercicioBanco.AssemblyInfo.cs
+C:\Users\lsousa\Documents\Aulas\Udemy\ExercicioBanco\ExercicioBanco\obj\Debug\net6.0\ExercicioBanco.csproj.CoreCompileInputs.cache
+C:\Users\lsousa\Documents\Aulas\Udemy\ExercicioBanco\ExercicioBanco\obj\Debug\net6.0\ExercicioBanco.dll
+C:\Users\lsousa\Documents\Aulas\Udemy\ExercicioBanco\ExercicioBanco\obj\Debug\net6.0\refint\ExercicioBanco.dll
+C:\Users\lsousa\Documents\Aulas\Udemy\ExercicioBanco\ExercicioBanco\obj\Debug\net6.0\ExercicioBanco.pdb
+C:\Users\lsousa\Documents\Aulas\Udemy\ExercicioBanco\ExercicioBanco\obj\Debug\net6.0\ExercicioBanco.genruntimeconfig.cache
+C:\Users\lsousa\Documents\Aulas\Udemy\ExercicioBanco\ExercicioBanco\obj\Debug\net6.0\ref\ExercicioBanco.dll
