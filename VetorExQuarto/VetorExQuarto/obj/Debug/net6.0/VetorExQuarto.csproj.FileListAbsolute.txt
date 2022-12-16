@@ -1,0 +1,15 @@
+C:\Users\lsousa\Documents\Aulas\Udemy\VetorExQuarto\VetorExQuarto\bin\Debug\net6.0\VetorExQuarto.exe
+C:\Users\lsousa\Documents\Aulas\Udemy\VetorExQuarto\VetorExQuarto\bin\Debug\net6.0\VetorExQuarto.deps.json
+C:\Users\lsousa\Documents\Aulas\Udemy\VetorExQuarto\VetorExQuarto\bin\Debug\net6.0\VetorExQuarto.runtimeconfig.json
+C:\Users\lsousa\Documents\Aulas\Udemy\VetorExQuarto\VetorExQuarto\bin\Debug\net6.0\VetorExQuarto.dll
+C:\Users\lsousa\Documents\Aulas\Udemy\VetorExQuarto\VetorExQuarto\bin\Debug\net6.0\VetorExQuarto.pdb
+C:\Users\lsousa\Documents\Aulas\Udemy\VetorExQuarto\VetorExQuarto\obj\Debug\net6.0\VetorExQuarto.csproj.AssemblyReference.cache
+C:\Users\lsousa\Documents\Aulas\Udemy\VetorExQuarto\VetorExQuarto\obj\Debug\net6.0\VetorExQuarto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsousa\Documents\Aulas\Udemy\VetorExQuarto\VetorExQuarto\obj\Debug\net6.0\VetorExQuarto.AssemblyInfoInputs.cache
+C:\Users\lsousa\Documents\Aulas\Udemy\VetorExQuarto\VetorExQuarto\obj\Debug\net6.0\VetorExQuarto.AssemblyInfo.cs
+C:\Users\lsousa\Documents\Aulas\Udemy\VetorExQuarto\VetorExQuarto\obj\Debug\net6.0\VetorExQuarto.csproj.CoreCompileInputs.cache
+C:\Users\lsousa\Documents\Aulas\Udemy\VetorExQuarto\VetorExQuarto\obj\Debug\net6.0\VetorExQuarto.dll
+C:\Users\lsousa\Documents\Aulas\Udemy\VetorExQuarto\VetorExQuarto\obj\Debug\net6.0\refint\VetorExQuarto.dll
+C:\Users\lsousa\Documents\Aulas\Udemy\VetorExQuarto\VetorExQuarto\obj\Debug\net6.0\VetorExQuarto.pdb
+C:\Users\lsousa\Documents\Aulas\Udemy\VetorExQuarto\VetorExQuarto\obj\Debug\net6.0\VetorExQuarto.genruntimeconfig.cache
+C:\Users\lsousa\Documents\Aulas\Udemy\VetorExQuarto\VetorExQuarto\obj\Debug\net6.0\ref\VetorExQuarto.dll

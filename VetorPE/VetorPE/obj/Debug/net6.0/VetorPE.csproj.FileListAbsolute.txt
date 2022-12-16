@@ -1,0 +1,15 @@
+C:\Users\lsousa\Documents\Aulas\Udemy\VetorPE\VetorPE\obj\Debug\net6.0\VetorPE.csproj.AssemblyReference.cache
+C:\Users\lsousa\Documents\Aulas\Udemy\VetorPE\VetorPE\obj\Debug\net6.0\VetorPE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsousa\Documents\Aulas\Udemy\VetorPE\VetorPE\obj\Debug\net6.0\VetorPE.AssemblyInfoInputs.cache
+C:\Users\lsousa\Documents\Aulas\Udemy\VetorPE\VetorPE\obj\Debug\net6.0\VetorPE.AssemblyInfo.cs
+C:\Users\lsousa\Documents\Aulas\Udemy\VetorPE\VetorPE\obj\Debug\net6.0\VetorPE.csproj.CoreCompileInputs.cache
+C:\Users\lsousa\Documents\Aulas\Udemy\VetorPE\VetorPE\bin\Debug\net6.0\VetorPE.exe
+C:\Users\lsousa\Documents\Aulas\Udemy\VetorPE\VetorPE\bin\Debug\net6.0\VetorPE.deps.json
+C:\Users\lsousa\Documents\Aulas\Udemy\VetorPE\VetorPE\bin\Debug\net6.0\VetorPE.runtimeconfig.json
+C:\Users\lsousa\Documents\Aulas\Udemy\VetorPE\VetorPE\bin\Debug\net6.0\VetorPE.dll
+C:\Users\lsousa\Documents\Aulas\Udemy\VetorPE\VetorPE\bin\Debug\net6.0\VetorPE.pdb
+C:\Users\lsousa\Documents\Aulas\Udemy\VetorPE\VetorPE\obj\Debug\net6.0\VetorPE.dll
+C:\Users\lsousa\Documents\Aulas\Udemy\VetorPE\VetorPE\obj\Debug\net6.0\refint\VetorPE.dll
+C:\Users\lsousa\Documents\Aulas\Udemy\VetorPE\VetorPE\obj\Debug\net6.0\VetorPE.pdb
+C:\Users\lsousa\Documents\Aulas\Udemy\VetorPE\VetorPE\obj\Debug\net6.0\VetorPE.genruntimeconfig.cache
+C:\Users\lsousa\Documents\Aulas\Udemy\VetorPE\VetorPE\obj\Debug\net6.0\ref\VetorPE.dll

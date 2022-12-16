@@ -1,0 +1,15 @@
+C:\Users\lsousa\Documents\Aulas\Udemy\StructPoint\StructPoint\bin\Debug\net6.0\StructPoint.exe
+C:\Users\lsousa\Documents\Aulas\Udemy\StructPoint\StructPoint\bin\Debug\net6.0\StructPoint.deps.json
+C:\Users\lsousa\Documents\Aulas\Udemy\StructPoint\StructPoint\bin\Debug\net6.0\StructPoint.runtimeconfig.json
+C:\Users\lsousa\Documents\Aulas\Udemy\StructPoint\StructPoint\bin\Debug\net6.0\StructPoint.dll
+C:\Users\lsousa\Documents\Aulas\Udemy\StructPoint\StructPoint\bin\Debug\net6.0\StructPoint.pdb
+C:\Users\lsousa\Documents\Aulas\Udemy\StructPoint\StructPoint\obj\Debug\net6.0\StructPoint.csproj.AssemblyReference.cache
+C:\Users\lsousa\Documents\Aulas\Udemy\StructPoint\StructPoint\obj\Debug\net6.0\StructPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsousa\Documents\Aulas\Udemy\StructPoint\StructPoint\obj\Debug\net6.0\StructPoint.AssemblyInfoInputs.cache
+C:\Users\lsousa\Documents\Aulas\Udemy\StructPoint\StructPoint\obj\Debug\net6.0\StructPoint.AssemblyInfo.cs
+C:\Users\lsousa\Documents\Aulas\Udemy\StructPoint\StructPoint\obj\Debug\net6.0\StructPoint.csproj.CoreCompileInputs.cache
+C:\Users\lsousa\Documents\Aulas\Udemy\StructPoint\StructPoint\obj\Debug\net6.0\StructPoint.dll
+C:\Users\lsousa\Documents\Aulas\Udemy\StructPoint\StructPoint\obj\Debug\net6.0\refint\StructPoint.dll
+C:\Users\lsousa\Documents\Aulas\Udemy\StructPoint\StructPoint\obj\Debug\net6.0\StructPoint.pdb
+C:\Users\lsousa\Documents\Aulas\Udemy\StructPoint\StructPoint\obj\Debug\net6.0\StructPoint.genruntimeconfig.cache
+C:\Users\lsousa\Documents\Aulas\Udemy\StructPoint\StructPoint\obj\Debug\net6.0\ref\StructPoint.dll

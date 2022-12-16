@@ -1,0 +1,15 @@
+C:\Users\lsousa\Documents\Aulas\Udemy\VetoresExercicio\VetoresExercicio\bin\Debug\net6.0\VetoresExercicio.exe
+C:\Users\lsousa\Documents\Aulas\Udemy\VetoresExercicio\VetoresExercicio\bin\Debug\net6.0\VetoresExercicio.deps.json
+C:\Users\lsousa\Documents\Aulas\Udemy\VetoresExercicio\VetoresExercicio\bin\Debug\net6.0\VetoresExercicio.runtimeconfig.json
+C:\Users\lsousa\Documents\Aulas\Udemy\VetoresExercicio\VetoresExercicio\bin\Debug\net6.0\VetoresExercicio.dll
+C:\Users\lsousa\Documents\Aulas\Udemy\VetoresExercicio\VetoresExercicio\bin\Debug\net6.0\VetoresExercicio.pdb
+C:\Users\lsousa\Documents\Aulas\Udemy\VetoresExercicio\VetoresExercicio\obj\Debug\net6.0\VetoresExercicio.csproj.AssemblyReference.cache
+C:\Users\lsousa\Documents\Aulas\Udemy\VetoresExercicio\VetoresExercicio\obj\Debug\net6.0\VetoresExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsousa\Documents\Aulas\Udemy\VetoresExercicio\VetoresExercicio\obj\Debug\net6.0\VetoresExercicio.AssemblyInfoInputs.cache
+C:\Users\lsousa\Documents\Aulas\Udemy\VetoresExercicio\VetoresExercicio\obj\Debug\net6.0\VetoresExercicio.AssemblyInfo.cs
+C:\Users\lsousa\Documents\Aulas\Udemy\VetoresExercicio\VetoresExercicio\obj\Debug\net6.0\VetoresExercicio.csproj.CoreCompileInputs.cache
+C:\Users\lsousa\Documents\Aulas\Udemy\VetoresExercicio\VetoresExercicio\obj\Debug\net6.0\VetoresExercicio.dll
+C:\Users\lsousa\Documents\Aulas\Udemy\VetoresExercicio\VetoresExercicio\obj\Debug\net6.0\refint\VetoresExercicio.dll
+C:\Users\lsousa\Documents\Aulas\Udemy\VetoresExercicio\VetoresExercicio\obj\Debug\net6.0\VetoresExercicio.pdb
+C:\Users\lsousa\Documents\Aulas\Udemy\VetoresExercicio\VetoresExercicio\obj\Debug\net6.0\VetoresExercicio.genruntimeconfig.cache
+C:\Users\lsousa\Documents\Aulas\Udemy\VetoresExercicio\VetoresExercicio\obj\Debug\net6.0\ref\VetoresExercicio.dll
