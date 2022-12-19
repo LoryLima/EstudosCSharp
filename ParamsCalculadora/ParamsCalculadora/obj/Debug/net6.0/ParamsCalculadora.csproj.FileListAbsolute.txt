@@ -1,0 +1,15 @@
+C:\Users\lsousa\Documents\Aulas\Udemy\ParamsCalculadora\ParamsCalculadora\bin\Debug\net6.0\ParamsCalculadora.exe
+C:\Users\lsousa\Documents\Aulas\Udemy\ParamsCalculadora\ParamsCalculadora\bin\Debug\net6.0\ParamsCalculadora.deps.json
+C:\Users\lsousa\Documents\Aulas\Udemy\ParamsCalculadora\ParamsCalculadora\bin\Debug\net6.0\ParamsCalculadora.runtimeconfig.json
+C:\Users\lsousa\Documents\Aulas\Udemy\ParamsCalculadora\ParamsCalculadora\bin\Debug\net6.0\ParamsCalculadora.dll
+C:\Users\lsousa\Documents\Aulas\Udemy\ParamsCalculadora\ParamsCalculadora\bin\Debug\net6.0\ParamsCalculadora.pdb
+C:\Users\lsousa\Documents\Aulas\Udemy\ParamsCalculadora\ParamsCalculadora\obj\Debug\net6.0\ParamsCalculadora.csproj.AssemblyReference.cache
+C:\Users\lsousa\Documents\Aulas\Udemy\ParamsCalculadora\ParamsCalculadora\obj\Debug\net6.0\ParamsCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsousa\Documents\Aulas\Udemy\ParamsCalculadora\ParamsCalculadora\obj\Debug\net6.0\ParamsCalculadora.AssemblyInfoInputs.cache
+C:\Users\lsousa\Documents\Aulas\Udemy\ParamsCalculadora\ParamsCalculadora\obj\Debug\net6.0\ParamsCalculadora.AssemblyInfo.cs
+C:\Users\lsousa\Documents\Aulas\Udemy\ParamsCalculadora\ParamsCalculadora\obj\Debug\net6.0\ParamsCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\lsousa\Documents\Aulas\Udemy\ParamsCalculadora\ParamsCalculadora\obj\Debug\net6.0\ParamsCalculadora.dll
+C:\Users\lsousa\Documents\Aulas\Udemy\ParamsCalculadora\ParamsCalculadora\obj\Debug\net6.0\refint\ParamsCalculadora.dll
+C:\Users\lsousa\Documents\Aulas\Udemy\ParamsCalculadora\ParamsCalculadora\obj\Debug\net6.0\ParamsCalculadora.pdb
+C:\Users\lsousa\Documents\Aulas\Udemy\ParamsCalculadora\ParamsCalculadora\obj\Debug\net6.0\ParamsCalculadora.genruntimeconfig.cache
+C:\Users\lsousa\Documents\Aulas\Udemy\ParamsCalculadora\ParamsCalculadora\obj\Debug\net6.0\ref\ParamsCalculadora.dll

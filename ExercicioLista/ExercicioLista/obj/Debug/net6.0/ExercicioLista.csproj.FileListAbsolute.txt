@@ -1,0 +1,15 @@
+C:\Users\lsousa\Documents\Aulas\Udemy\ExercicioLista\ExercicioLista\obj\Debug\net6.0\ExercicioLista.csproj.AssemblyReference.cache
+C:\Users\lsousa\Documents\Aulas\Udemy\ExercicioLista\ExercicioLista\obj\Debug\net6.0\ExercicioLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsousa\Documents\Aulas\Udemy\ExercicioLista\ExercicioLista\obj\Debug\net6.0\ExercicioLista.AssemblyInfoInputs.cache
+C:\Users\lsousa\Documents\Aulas\Udemy\ExercicioLista\ExercicioLista\obj\Debug\net6.0\ExercicioLista.AssemblyInfo.cs
+C:\Users\lsousa\Documents\Aulas\Udemy\ExercicioLista\ExercicioLista\obj\Debug\net6.0\ExercicioLista.csproj.CoreCompileInputs.cache
+C:\Users\lsousa\Documents\Aulas\Udemy\ExercicioLista\ExercicioLista\bin\Debug\net6.0\ExercicioLista.exe
+C:\Users\lsousa\Documents\Aulas\Udemy\ExercicioLista\ExercicioLista\bin\Debug\net6.0\ExercicioLista.deps.json
+C:\Users\lsousa\Documents\Aulas\Udemy\ExercicioLista\ExercicioLista\bin\Debug\net6.0\ExercicioLista.runtimeconfig.json
+C:\Users\lsousa\Documents\Aulas\Udemy\ExercicioLista\ExercicioLista\bin\Debug\net6.0\ExercicioLista.dll
+C:\Users\lsousa\Documents\Aulas\Udemy\ExercicioLista\ExercicioLista\bin\Debug\net6.0\ExercicioLista.pdb
+C:\Users\lsousa\Documents\Aulas\Udemy\ExercicioLista\ExercicioLista\obj\Debug\net6.0\ExercicioLista.dll
+C:\Users\lsousa\Documents\Aulas\Udemy\ExercicioLista\ExercicioLista\obj\Debug\net6.0\refint\ExercicioLista.dll
+C:\Users\lsousa\Documents\Aulas\Udemy\ExercicioLista\ExercicioLista\obj\Debug\net6.0\ExercicioLista.pdb
+C:\Users\lsousa\Documents\Aulas\Udemy\ExercicioLista\ExercicioLista\obj\Debug\net6.0\ExercicioLista.genruntimeconfig.cache
+C:\Users\lsousa\Documents\Aulas\Udemy\ExercicioLista\ExercicioLista\obj\Debug\net6.0\ref\ExercicioLista.dll
